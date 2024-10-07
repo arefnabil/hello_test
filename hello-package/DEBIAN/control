@@ -1,0 +1,7 @@
+Package: hello
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: AREF ly5050002@gmail.com
+Description: A simple Hello World program
